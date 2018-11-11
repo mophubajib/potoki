@@ -3,7 +3,7 @@ package com.simbirsoft.java;
 import java.io.*;
 import java.util.Properties;
 
-public class PropertiesLayer implements ModelLayer {
+public class PropertiesLayer implements PropsReader {
 
     Properties property = new Properties();
     final org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger(PropertiesLayer.class);
@@ -26,7 +26,6 @@ public class PropertiesLayer implements ModelLayer {
         return null;
     }
 
-    @Override
     public InfoForResumeTest getInfoForResume() {
 
         InfoForResumeTest infoForResumeTest = new InfoForResumeTest(

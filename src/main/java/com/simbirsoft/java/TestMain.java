@@ -1,23 +1,28 @@
 package com.simbirsoft.java;
+
 import java.io.IOException;
 
-public class TestMain {
+public class Main {
 
-    public static void main(String[] args)  throws IOException {
+    public static void main(String[] args) throws IOException {
 
         Controller controller = new Controller();
         controller.execute();
     }
 }
 
-class Controller{
-            ModelLayer modelLayer = new PropertiesLayer();
-            View view = new HtmlView();
-            void execute() {
-                InfoForResumeTest infoForResumeTest = modelLayer.getInfoForResume();
-                view.CreateHtml(infoForResumeTest);
+class Controller {
+    PropsReader modelLayer = new PropsReaderImpl();
+    View view = new HtmlView();
+    View view1 =new HtmlOfArraylist();
 
-            }
+    void execute() {
+        InfoForResumeTest infoForResumeTest = modelLayer.getInfoForResume();
+        view.createHtml(infoForResumeTest);
+        view1.createHtml(infoForResumeTest);
+
+    }
+
 }
 
 
