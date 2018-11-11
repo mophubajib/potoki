@@ -1,6 +1,6 @@
 package com.simbirsoft.java;
 
-public class InfoForResumeTest {
+public class InfoForResumeTest<String> {
 
 
     private String fio;
@@ -15,6 +15,7 @@ public class InfoForResumeTest {
     private String education;
     private String skills;
     private String exemplecode;
+
 
     public InfoForResumeTest(
 
@@ -31,19 +32,19 @@ public class InfoForResumeTest {
             String skills,
             String exemplecode
 
-    ){
-        this.fio=fio;
-        this.dob=dob;
-        this.mobile=mobile;
-        this.email=email;
-        this.skype=skype;
-        this.avatar=avatar;
-        this.target=target;
-        this.experience=experience;
-        this.courses=courses;
-        this.education=education;
-        this.skills=skills;
-        this.exemplecode=exemplecode;
+    ) {
+        this.fio = fio;
+        this.dob = dob;
+        this.mobile = mobile;
+        this.email = email;
+        this.skype = skype;
+        this.avatar = avatar;
+        this.target = target;
+        this.experience = experience;
+        this.courses = courses;
+        this.education = education;
+        this.skills = skills;
+        this.exemplecode = exemplecode;
 
     }
 

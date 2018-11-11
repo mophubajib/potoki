@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dcc3cff-dd05-47a7-9e44-32ee927d20c5" name="Default" comment="" />
+    <list default="true" id="2dcc3cff-dd05-47a7-9e44-32ee927d20c5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/log_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moiseychev-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/moiseychev-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resumeForSimbirsoft.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ModelLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropertiesLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/HtmlView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/HtmlView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/InfoForResumeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/InfoForResumeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/ModelLayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/PropertiesLayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/SimpleWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/SimpleWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.simbirsoft.java.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.simbirsoft.java.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.simbirsoft.java.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.simbirsoft.java.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/simbirsoft/java/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/simbirsoft/java/AppTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,32 +58,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HtmlView.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="476">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -72,6 +78,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,16 +107,30 @@
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/IOpenPropertiesAndDownloadInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/OpenPropertiesAndDownloadInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PersonPropertyKey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResume.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ConsoleView.java" />
         <option value="$PROJECT_DIR$/src/main/resources/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/CollectionForProperty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Box.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Box.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/intTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/test.java" />
+        <option value="$PROJECT_DIR$/resumeForSimbirsoft.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/drtfdghdh.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/DataInArraylist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Test123123.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/DataInArraylist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InterfaceDataInArraylist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ViewTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ModelLayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropertiesLayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java" />
       </list>
     </option>
@@ -123,6 +146,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -162,30 +187,19 @@
               <item name="moiseychev" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TestMain.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="moiseychev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="moiseychev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Интерфейс/test4/moiseychev" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -196,11 +210,11 @@
       <recent name="E:\Courses\moiseychev\src\main\java\com\simbirsoft\java\META-INF" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\Арайлист\test1\moiseychev\src\main\resources" />
+      <recent name="E:\Java\Арайлист\test1\moiseychev\src\main\java\com\simbirsoft\java" />
       <recent name="E:\Java\Интерфейс\test3\moiseychev\src\main\resources" />
       <recent name="E:\Java\Интерфейс\test3\moiseychev\src\main\java\com\simbirsoft\java" />
       <recent name="E:\Java\Интерфейс\test2\moiseychev" />
-      <recent name="E:\Java\Интерфейс\test2\moiseychev\src\main\resources" />
-      <recent name="E:\Java\Интерфейс\test2\moiseychev\src\main\java\com\simbirsoft\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,8 +230,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.TestMain">
-    <configuration name="AdminApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.simbirsoft.java.AdminApplication" />
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simbirsoft.java.Box" />
       <module name="moiseychev" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -227,20 +241,16 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-10" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.simbirsoft.java.Main" />
+    <configuration name="CollectionForProperty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simbirsoft.java.CollectionForProperty" />
       <module name="moiseychev" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.simbirsoft.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <shortenClasspath name="MANIFEST" />
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.simbirsoft.java.Main" />
@@ -255,6 +265,17 @@
     </configuration>
     <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.simbirsoft.java.TestMain" />
+      <module name="moiseychev" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simbirsoft.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestMain123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simbirsoft.java.TestMain123" />
       <module name="moiseychev" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -283,9 +304,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="CreaterHtml.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/target/CreaterHtml.jar" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -310,18 +328,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.AdminApplication" />
-      <item itemvalue="JAR Application.CreaterHtml.jar" />
       <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.TestMain123" />
+      <item itemvalue="Application.CollectionForProperty" />
+      <item itemvalue="Application.Box" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.Box" />
+        <item itemvalue="Application.CollectionForProperty" />
+        <item itemvalue="Application.TestMain123" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AdminApplication" />
-        <item itemvalue="JAR Application.CreaterHtml.jar" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -369,146 +387,83 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3284055" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053936" side_tool="true" weight="0.3265306" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946064" weight="0.32629356" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32975295" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32946146" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2046875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17083333" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32946146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957035" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" visible="true" weight="0.47104582" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32946146" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3284055" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32975295" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2046875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946064" visible="true" weight="0.32629356" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32946146" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" visible="true" weight="0.47104582" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053936" side_tool="true" weight="0.3265306" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3284055" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="36" lean-forward="true" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="35" lean-forward="true" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/CreaterHtml/WEB-INF/classes/com/simbirsoft/java/SimpleWindow.class" />
-    <entry file="file://$PROJECT_DIR$/target/CreaterHtml/WEB-INF/classes/com/simbirsoft/java/Main.class" />
-    <entry file="file://$PROJECT_DIR$/target/classes/com/simbirsoft/java/SimpleWindow.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/commons-logging.properties .properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/AdminApplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Logger.java" />
     <entry file="file://$PROJECT_DIR$/target/classes/com/simbirsoft/java/Main.class" />
     <entry file="file://$PROJECT_DIR$/target/maven-archiver/Maven__log4j_log4j_1_2_17.xml">
@@ -539,66 +494,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/commons-logging.properties" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PersonalDataFile.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PersonRepositoryFromPropertyFileImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PersonPropertyKey.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/InfoForResume.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/ConsoleView.java" />
-    <entry file="file://$PROJECT_DIR$/propertiesForSimbirsoft.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ModelLayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropertiesLayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log_file.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/moiseychev.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -606,27 +505,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java">
+    <entry file="file://$PROJECT_DIR$/log_file.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Box.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/DataInArraylist.java" />
+    <entry file="file://$PROJECT_DIR$/propertiesForSimbirsoft.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/drtfdghdh.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="439" selection-start-line="439" selection-end-line="439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="247" selection-start-line="247" selection-end-line="247" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Test123123.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/InterfaceDataInArraylist.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/DataInArraylist.java" />
+    <entry file="file://$PROJECT_DIR$/Testovii.html" />
+    <entry file="file://$PROJECT_DIR$/TestGetCollection.html" />
+    <entry file="file://$PROJECT_DIR$/TestGetCollection1234566.html" />
+    <entry file="file://$PROJECT_DIR$/TestEshe1" />
+    <entry file="file://$PROJECT_DIR$/TestEshe1.html" />
+    <entry file="file://$PROJECT_DIR$/TestGetCollection2.html" />
+    <entry file="file://$PROJECT_DIR$/resumeForSimbirsoftVersion2.html" />
+    <entry file="file://$PROJECT_DIR$/TestGetCollection3.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ViewTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-314">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Main.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        <state relative-caret-position="-1827">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resumeForSimbirsoft.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resumeForSimbirsoftFromCollection.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>

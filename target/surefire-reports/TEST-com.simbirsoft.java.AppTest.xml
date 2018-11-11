@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.simbirsoft.java.AppTest" time="0.002" errors="0" skipped="0">
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.simbirsoft.java.AppTest" time="0.001" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="10+46"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-10\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="E:/Java/Интерфейс/test4/moiseychev"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:/Java/Арайлист/test2/moiseychev"/>
     <property name="java.vm.vendor" value="&quot;Oracle Corporation&quot;"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,14 +16,13 @@
     <property name="user.country" value="RU"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="E:\Java\Интерфейс\test4\moiseychev"/>
+    <property name="user.dir" value="E:\Java\Арайлист\test2\moiseychev"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="10+46"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\Smoky\AppData\Local\Temp\"/>
-    <property name="line.separator" value="
-"/>
+    <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
@@ -64,5 +63,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.simbirsoft.java.AppTest" name="shouldAnswerWithTrue" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.simbirsoft.java.AppTest" time="0.001"/>
 </testsuite>

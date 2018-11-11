@@ -2,7 +2,7 @@ package com.simbirsoft.java;
 
 import java.io.IOException;
 
-public class Main {
+public class TestMain {
 
     public static void main(String[] args) throws IOException {
 

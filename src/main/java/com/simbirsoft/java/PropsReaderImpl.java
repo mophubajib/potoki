@@ -3,12 +3,12 @@ package com.simbirsoft.java;
 import java.io.*;
 import java.util.Properties;
 
-public class PropertiesLayer implements PropsReader {
+public class PropsReaderImpl implements PropsReader {
 
     Properties property = new Properties();
-    final org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger(PropertiesLayer.class);
+    final org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger(PropsReaderImpl.class);
 
-    public PropertiesLayer() {
+    public PropsReaderImpl() {
         property = getProperties();
     }
 

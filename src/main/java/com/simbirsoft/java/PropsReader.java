@@ -1,5 +1,5 @@
 package com.simbirsoft.java;
 
-public interface ModelLayer {
+public interface PropsReader {
     InfoForResumeTest getInfoForResume();
 }
