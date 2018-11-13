@@ -1,6 +1,8 @@
 package com.simbirsoft.java;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class TestMain {
 
@@ -20,7 +22,6 @@ class Controller {
         InfoForResumeTest infoForResumeTest = modelLayer.getInfoForResume();
         view.createHtml(infoForResumeTest);
         view1.createHtml(infoForResumeTest);
-
     }
 
 }

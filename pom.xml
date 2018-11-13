@@ -14,8 +14,8 @@
     <url>https://www.simbirsoft.com</url>
 
     <properties>
-        <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>ISO-8859-1</project.reporting.outputEncoding>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>
         <maven.war.plugin.version>3.0.0</maven.war.plugin.version>
         <maven.resources.plugin.version>3.0.0</maven.resources.plugin.version>
