@@ -1,6 +1,6 @@
 package com.simbirsoft.java;
 
-public class InfoForResumeTest<String> {
+public class InfoForResumeTest {
 
 
     private String fio;
@@ -15,6 +15,8 @@ public class InfoForResumeTest<String> {
     private String education;
     private String skills;
     private String exemplecode;
+
+//    PropsReaderImpl propsReader = new PropsReaderImpl();
 
 
     public InfoForResumeTest(

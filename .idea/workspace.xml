@@ -2,28 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dcc3cff-dd05-47a7-9e44-32ee927d20c5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/log_file.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moiseychev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/moiseychev.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/propertiesForSimbirsoft.properties" beforeDir="false" afterPath="$PROJECT_DIR$/propertiesForSimbirsoft.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resumeForSimbirsoftFrom.html" beforeDir="false" afterPath="$PROJECT_DIR$/resumeForSimbirsoftFrom.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resumeForSimbirsoftFromCollection.html" beforeDir="false" afterPath="$PROJECT_DIR$/resumeForSimbirsoftFromCollection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImplForList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImplForList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/Controller.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/HtmlOfArraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/HtmlOfArraylist.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/HtmlView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/HtmlView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/InfoForResumeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/InfoForResumeTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/PropsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/PropsReader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/PropsReaderImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/PropsReaderImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/PropsReaderImplForList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/PropsReaderImplForList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/SimpleWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/SimpleWindow.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simbirsoft/java/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/simbirsoft/java/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/simbirsoft/java/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,11 +53,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="114">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PropsReaderImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#1593#1594#0" expanded="true" />
+                <element signature="e#1624#1625#0" expanded="true" />
+                <element signature="e#1678#1679#0" expanded="true" />
+                <element signature="e#1718#1719#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InfoForResumeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#1170#1171#0" expanded="true" />
+                <element signature="e#1196#1197#0" expanded="true" />
+                <element signature="e#1234#1235#0" expanded="true" />
+                <element signature="e#1264#1265#0" expanded="true" />
+                <element signature="e#1294#1295#0" expanded="true" />
+                <element signature="e#1320#1321#0" expanded="true" />
+                <element signature="e#1358#1359#0" expanded="true" />
+                <element signature="e#1388#1389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,8 +116,8 @@
       <file leaf-file-name="PropsReaderImplForList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImplForList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
+            <state relative-caret-position="-306">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,20 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="HtmlOfArraylist.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapForSkills.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/MapForSkills.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+            <state relative-caret-position="53">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,31 +137,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SkillsValueComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SkillsValueComparator.java">
+      <file leaf-file-name="PropsReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Skill.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Skill.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-              </folding>
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -146,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/InfoForResume.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/IOpenPropertiesAndDownloadInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/OpenPropertiesAndDownloadInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PersonPropertyKey.java" />
@@ -157,8 +183,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/CollectionForProperty.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Box.java" />
         <option value="$PROJECT_DIR$/src/main/resources/Box.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/intTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/test.java" />
         <option value="$PROJECT_DIR$/resumeForSimbirsoft.html" />
@@ -170,7 +194,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ViewTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ModelLayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropertiesLayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/TestWorkForProperty.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Exemple1.java" />
@@ -181,7 +204,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImplForCollection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestWorkForProperty.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Program.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/student.java" />
@@ -196,6 +218,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/MapForSkills.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImplForList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java" />
       </list>
     </option>
@@ -211,6 +238,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,14 +278,21 @@
               <item name="moiseychev" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestMain.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="moiseychev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moiseychev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -264,7 +300,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Коллекции/test2/moiseychev" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -458,6 +494,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -468,7 +505,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053936" side_tool="true" weight="0.3265306" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946064" weight="0.32629356" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946064" visible="true" weight="0.32629356" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32946146" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -491,10 +528,10 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946064" visible="true" weight="0.32629356" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946064" weight="0.32629356" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3284055" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1578125" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3284055" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1578125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -524,26 +561,381 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java</url>
-          <line>52</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>63</line>
           <properties />
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>62</line>
+          <properties class="com.simbirsoft.java.PropsReaderImpl" method="setListInfo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>58</line>
+          <properties class="com.simbirsoft.java.PropsReaderImpl" method="getListInfo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>11</line>
+          <properties class="com.simbirsoft.java.PropsReaderImpl" method="setProperty">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>7</line>
+          <properties class="com.simbirsoft.java.PropsReaderImpl" method="getProperty">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java</url>
+          <line>65</line>
+          <properties class="com.simbirsoft.java.InfoForResumeTest" method="setDob">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java</url>
+          <line>61</line>
+          <properties class="com.simbirsoft.java.InfoForResumeTest" method="getDob">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java</url>
+          <line>57</line>
+          <properties class="com.simbirsoft.java.InfoForResumeTest" method="setFio">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java</url>
+          <line>53</line>
+          <properties class="com.simbirsoft.java.InfoForResumeTest" method="getFio">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java</url>
+          <line>23</line>
+          <properties field="listInfo" class="com.simbirsoft.java.PropsReaderImpl" />
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="75" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Testing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Testing.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImplForList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -575,13 +967,6 @@
     <entry file="file://$PROJECT_DIR$/resumeForSimbirsoftVersion2.html" />
     <entry file="file://$PROJECT_DIR$/TestGetCollection3.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/ViewTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -606,48 +991,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#1178#1179#0" expanded="true" />
-            <element signature="e#1204#1205#0" expanded="true" />
-            <element signature="e#1242#1243#0" expanded="true" />
-            <element signature="e#1272#1273#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2014#2015#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -662,30 +1005,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="247" selection-start-line="247" selection-end-line="247" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestForMap.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForMap.java" />
     <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="175" selection-start-line="175" selection-end-line="175" />
-          <folding>
-            <element signature="e#7316#7317#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/Test123.java" />
-    <entry file="file://$PROJECT_DIR$/propertiesForSimbirsoft.properties">
+    <entry file="file://$PROJECT_DIR$/propertiesForSimbirsoft.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Testing.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Skill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/MapForSkills.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -696,47 +1048,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Testing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="100" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImplForList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SkillsValueComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#237#238#0" expanded="true" />
@@ -745,33 +1060,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/SimpleWindow.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/Skill.java">
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/MapForSkills.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImplForList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        <state relative-caret-position="-306">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/HtmlOfArraylist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/InfoForResumeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#1170#1171#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/PropsReaderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+            <element signature="e#1678#1679#0" expanded="true" />
+            <element signature="e#1718#1719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simbirsoft/java/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
         </state>
       </provider>
     </entry>
